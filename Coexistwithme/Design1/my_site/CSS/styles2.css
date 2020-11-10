@@ -1,0 +1,15 @@
+h1 {
+  font-family: 'Xanh Mono', monospace;
+  font-size: 1.0em;
+  color: #ff0000
+}
+h2 {
+  font-family: 'Xanh Mono', monospace;
+  font-size: 1.5em;
+  color: #690000
+}
+p {
+  font-family: 'Nova Mono', monospace;
+  font-size: 4.0em;
+  color: #ff9494
+}

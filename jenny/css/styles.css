@@ -1,0 +1,52 @@
+body {
+	margin:0;
+}
+
+.background {
+	z-index: -1;
+	position: absolute;
+}
+
+.background img{
+
+	width: 100%;
+	height: auto;
+
+}
+
+#content {
+	padding: 4em;
+}
+
+.center {
+	text-align:center;
+}
+
+.rectangle {
+	padding:2.5em;
+	color: white;
+	display: inline-block;
+	text-align:center;
+}
+
+.circle {
+	padding:2.5em;
+	color: black;
+	display: inline-block;
+	text-align:center;
+	border-radius: 100%;
+	
+}
+
+.brown {
+	background-color:brown;
+}
+
+.aqua {
+	background-color:aqua;
+	color: white;
+	}
+
+.observation:hover {
+	
+}
